@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>education-parent</artifactId>
+        <groupId>com.education</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../education-parent</relativePath>
+    </parent>
+    <groupId>com.education</groupId>
+    <artifactId>education-system</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>education-system</name>
+    <description>education-system</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>education-system-api</module>
+        <module>education-system-model</module>
+        <module>education-system-service</module>
+    </modules>
+</project>

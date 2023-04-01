@@ -1,0 +1,140 @@
+2023-03-22 19:32:09,019 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-03-22 19:32:09,019 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-03-22 19:32:09,039 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-03-22 19:32:09,039 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-03-22 19:32:09,048 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-22 19:32:09,048 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-22 19:32:09,051 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-22 19:32:09,051 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-22 19:32:09,053 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-22 19:32:09,053 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-22 19:32:09,053 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-22 19:32:09,053 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-22 19:32:09,061 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-22 19:32:09,061 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-22 19:32:09,090 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-22 19:32:09,090 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-22 19:32:09,315 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-22 19:32:09,315 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-22 19:32:09,325 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-22 19:32:09,325 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-22 19:32:09,326 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-22 19:32:09,326 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-22 19:32:09,326 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-22 19:32:09,326 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-22 19:32:09,326 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-22 19:32:09,326 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-22 19:32:09,327 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-22 19:32:09,327 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-22 19:32:09,644 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-03-22 19:32:09,644 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-03-22 19:32:10,598 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-03-22 19:32:10,598 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-03-22 19:32:10,702 INFO [main][GenericScope.java:295] - BeanFactory id=a4af71f2-ba74-348a-87b7-cd599a965bed
+2023-03-22 19:32:10,702 INFO [main][GenericScope.java:295] - BeanFactory id=a4af71f2-ba74-348a-87b7-cd599a965bed
+2023-03-22 19:32:11,228 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2023-03-22 19:32:11,228 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2023-03-22 19:32:11,252 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2023-03-22 19:32:11,252 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2023-03-22 19:32:11,253 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-03-22 19:32:11,253 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-03-22 19:32:11,254 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-03-22 19:32:11,254 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-03-22 19:32:11,508 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-03-22 19:32:11,510 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1844 ms
+2023-03-22 19:32:11,508 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-03-22 19:32:11,510 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1844 ms
+2023-03-22 19:32:12,493 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-03-22 19:32:12,493 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-03-22 19:32:12,661 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@44f24a20'
+2023-03-22 19:32:12,661 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@44f24a20'
+2023-03-22 19:32:12,664 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-03-22 19:32:12,664 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-03-22 19:32:14,099 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.insert
+2023-03-22 19:32:14,099 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.insert
+2023-03-22 19:32:14,107 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.delete
+2023-03-22 19:32:14,107 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.delete
+2023-03-22 19:32:14,110 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.deleteByMap
+2023-03-22 19:32:14,110 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.deleteByMap
+2023-03-22 19:32:14,139 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.deleteById
+2023-03-22 19:32:14,139 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.deleteById
+2023-03-22 19:32:14,142 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.deleteBatchIds
+2023-03-22 19:32:14,142 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.deleteBatchIds
+2023-03-22 19:32:14,147 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.update
+2023-03-22 19:32:14,147 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.update
+2023-03-22 19:32:14,151 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.updateById
+2023-03-22 19:32:14,151 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.updateById
+2023-03-22 19:32:14,152 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectById
+2023-03-22 19:32:14,152 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectById
+2023-03-22 19:32:14,155 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectBatchIds
+2023-03-22 19:32:14,155 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectBatchIds
+2023-03-22 19:32:14,158 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectByMap
+2023-03-22 19:32:14,158 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectByMap
+2023-03-22 19:32:14,161 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectOne
+2023-03-22 19:32:14,161 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectOne
+2023-03-22 19:32:14,165 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectCount
+2023-03-22 19:32:14,165 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectCount
+2023-03-22 19:32:14,170 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectMaps
+2023-03-22 19:32:14,170 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectMaps
+2023-03-22 19:32:14,175 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectMapsPage
+2023-03-22 19:32:14,175 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectMapsPage
+2023-03-22 19:32:14,179 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectObjs
+2023-03-22 19:32:14,179 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectObjs
+2023-03-22 19:32:14,183 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectList
+2023-03-22 19:32:14,183 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectList
+2023-03-22 19:32:14,187 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectPage
+2023-03-22 19:32:14,187 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.education.system.mapper.DictionaryMapper.selectPage
+2023-03-22 19:32:14,688 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-03-22 19:32:14,688 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-03-22 19:32:14,744 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-22 19:32:14,744 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-22 19:32:14,748 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-03-22 19:32:14,748 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-03-22 19:32:14,749 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-03-22 19:32:14,749 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-03-22 19:32:14,750 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-03-22 19:32:14,750 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-03-22 19:32:14,752 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-22 19:32:14,752 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-22 19:32:14,752 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-03-22 19:32:14,752 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-03-22 19:32:14,753 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-22 19:32:14,753 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-22 19:32:14,753 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-22 19:32:14,753 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-22 19:32:14,754 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-22 19:32:14,754 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-22 19:32:14,755 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-22 19:32:14,755 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-22 19:32:14,759 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-22 19:32:14,759 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-22 19:32:14,760 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-22 19:32:14,761 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-22 19:32:14,761 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-22 19:32:14,844 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-03-22 19:32:14,844 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-03-22 19:32:15,055 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2023-03-22 19:32:15,055 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2023-03-22 19:32:15,153 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2023-03-22 19:32:15,153 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2023-03-22 19:32:15,180 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2023-03-22 19:32:15,180 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2023-03-22 19:32:15,182 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-03-22 19:32:15,182 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-03-22 19:32:15,198 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-03-22 19:32:15,198 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-03-22 19:32:15,243 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-03-22 19:32:15,243 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-03-22 19:32:15,455 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 6.968 seconds (JVM running for 8.481)
+2023-03-22 19:32:15,455 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 6.968 seconds (JVM running for 8.481)
+2023-03-22 19:32:22,328 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2023-03-22 19:32:22,328 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2023-03-22 19:32:22,331 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-03-22 19:32:22,331 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'

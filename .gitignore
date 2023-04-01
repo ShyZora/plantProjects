@@ -1,0 +1,10 @@
+# Project exclude paths
+/education-auth/target/
+/education-base/target/
+/education-content/education-content-api/target/
+/education-media/education-media-api/target/
+/education-media/education-media-service/target/
+/education-system/education-system-api/target/
+/education-system/education-system-model/target/
+/education-system/education-system-service/target/
+/target/

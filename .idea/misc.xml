@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/education-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/education-base/pom.xml" />
+        <option value="$PROJECT_DIR$/education-content/pom.xml" />
+        <option value="$PROJECT_DIR$/education-content/education-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/education-content/education-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/education-content/education-content-service/education-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/education-content/education-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-system/pom.xml" />
+        <option value="$PROJECT_DIR$/education-system/pom.xml" />
+        <option value="$PROJECT_DIR$/education-system/education-system-api/pom.xml" />
+        <option value="$PROJECT_DIR$/education-system/education-system-model/pom.xml" />
+        <option value="$PROJECT_DIR$/education-system/education-system-service/pom.xml" />
+        <option value="$PROJECT_DIR$/education-media/pom.xml" />
+        <option value="$PROJECT_DIR$/education-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/education-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/education-media/education-media-api/pom.xml" />
+        <option value="$PROJECT_DIR$/education-media/education-media-model/pom.xml" />
+        <option value="$PROJECT_DIR$/education-media/education-media-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

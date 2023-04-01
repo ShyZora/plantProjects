@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="onlineEducation" />
+      </profile>
+      <profile name="Annotation profile for education-media" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
+        </processorPath>
+        <module name="education-media-model" />
+        <module name="education-content-service" />
+        <module name="education-system-api" />
+        <module name="education-system-service" />
+        <module name="education-content-model" />
+        <module name="education-base" />
+        <module name="education-media-service" />
+        <module name="education-content-api" />
+        <module name="education-system-model" />
+        <module name="education-media-api" />
+        <module name="education-auth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="17" />
+      <module name="education-plus-parent" target="1.8" />
+      <module name="media" target="1.8" />
+      <module name="xuecheng-plus-content" target="1.8" />
+      <module name="xuecheng-plus-content-service" target="1.8" />
+      <module name="xuecheng-plus-gateway" target="1.8" />
+      <module name="xuecheng-plus-generator" target="1.8" />
+      <module name="xuecheng-plus-system" target="1.5" />
+      <module name="xuecheng-plus-system-model" target="1.5" />
+      <module name="xuecheng-plus-system-service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="education-base" options="" />
+      <module name="education-content" options="" />
+      <module name="education-content-api" options="" />
+      <module name="education-content-model" options="" />
+      <module name="education-content-service" options="" />
+      <module name="education-gateway" options="" />
+      <module name="education-media-model" options="" />
+      <module name="education-parent" options="" />
+    </option>
+  </component>
+</project>
