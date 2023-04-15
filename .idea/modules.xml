@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/plant-base.iml" filepath="$PROJECT_DIR$/plant-base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plant-content.iml" filepath="$PROJECT_DIR$/plant-content.iml" />
       <module fileurl="file://$PROJECT_DIR$/plant-content-api.iml" filepath="$PROJECT_DIR$/plant-content-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plant-content-model.iml" filepath="$PROJECT_DIR$/plant-content-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plant-content-service.iml" filepath="$PROJECT_DIR$/plant-content-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plantProjects.iml" filepath="$PROJECT_DIR$/plantProjects.iml" />
     </modules>
   </component>
 </project>

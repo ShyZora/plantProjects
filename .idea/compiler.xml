@@ -20,13 +20,5 @@
         <module name="plant-content-service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="plant-base" target="1.8" />
-      <module name="plant-content" target="1.8" />
-      <module name="plant-content-api" target="1.8" />
-      <module name="plant-content-model" target="1.8" />
-      <module name="plant-content-service" target="1.8" />
-      <module name="plantProjects" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
