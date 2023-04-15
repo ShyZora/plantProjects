@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for plantProjects" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
+        </processorPath>
+        <module name="plant-base" />
+        <module name="plant-content-model" />
+        <module name="plant-content-api" />
+        <module name="plant-content-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="plant-base" target="1.8" />
+      <module name="plant-content" target="1.8" />
+      <module name="plant-content-api" target="1.8" />
+      <module name="plant-content-model" target="1.8" />
+      <module name="plant-content-service" target="1.8" />
+      <module name="plantProjects" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
